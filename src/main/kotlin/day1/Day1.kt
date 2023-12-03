@@ -1,7 +1,7 @@
 package day1
 
 val DEBUG = false
-val PART1 = false
+val PART1 = true
 val PART2 = true
 fun main() {
     val fileName = if (DEBUG) "test" else "input"
